@@ -1,4 +1,4 @@
-# Text Embeddings API
+# Text Embeddings - MediaPipe with Android-Kotlin
 
 An embedding is a relatively low-dimensional space into which you can translate high-dimensional vectors. Embeddings make it easier to do machine learning on large inputs like sparse vectors representing words. Ideally, an embedding captures some of the semantics of the input by placing semantically similar inputs close together in the embedding space. An embedding can be learned and reused across models.
 [Embeddings Ref](https://developers.google.com/machine-learning/crash-course/embeddings/video-lecture)
@@ -15,6 +15,7 @@ This is an open-source code used MediaPipe for creating the embeddings and cosin
 
 Try it:
 
+![app](https://github.com/jggomez/AndroidMediaPipe/assets/661231/a894d4e6-eca3-490d-b71c-e10c47f18cf0)
 
 
 Made with ❤ by  [jggomez](https://devhack.co).
