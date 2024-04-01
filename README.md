@@ -15,7 +15,7 @@ This is an open-source code used MediaPipe for creating the embeddings and cosin
 
 Try it:
 
-![app](https://github.com/jggomez/AndroidMediaPipe/assets/661231/a894d4e6-eca3-490d-b71c-e10c47f18cf0)
+<img src="https://github.com/jggomez/AndroidMediaPipe/assets/661231/a894d4e6-eca3-490d-b71c-e10c47f18cf0" width="400" height="900">
 
 
 Made with ❤ by  [jggomez](https://devhack.co).
