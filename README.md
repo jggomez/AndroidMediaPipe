@@ -26,7 +26,7 @@ Made with ❤ by  [jggomez](https://devhack.co).
 
 ## License
 
-    Copyright 2023 Juan Guillermo Gómez
+    Copyright 2024 Juan Guillermo Gómez
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
